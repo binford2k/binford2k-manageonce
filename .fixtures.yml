@@ -1,0 +1,6 @@
+fixtures:
+  symlinks:
+    manageonce: "#{source_dir}"
+  forge_modules:
+    stdlib: "puppetlabs/stdlib"
+
