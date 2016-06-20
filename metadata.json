@@ -1,0 +1,17 @@
+{
+  "name": "binford2k-manageonce",
+  "version": "0.0.1",
+  "author": "binford2k",
+  "summary": "Sometimes you only want to manage a resource one time. This will help you do that.",
+  "license": "Apache 2.0",
+  "source": "http://github.com/binford2k/binford2k-manageonce",
+  "project_page": "https://github.com/binford2k/binford2k-manageonce",
+  "issues_url": "https://github.com/binford2k/binford2k-manageonce/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_range": ">= 1.0.0"
+    }
+  ]
+}
+
